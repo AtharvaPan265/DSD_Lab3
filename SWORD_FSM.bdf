@@ -22,9 +22,9 @@ agreement for further details.
 (header "graphic" (version "1.4"))
 (pin
 	(input)
-	(rect 632 240 800 256)
+	(rect 560 312 728 328)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "Reset" (rect 5 0 35 11)(font "Arial" ))
+	(text "SW" (rect 5 0 23 11)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -40,7 +40,7 @@ agreement for further details.
 	(input)
 	(rect 632 280 800 296)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "Clk" (rect 5 0 22 11)(font "Arial" ))
+	(text "CLK" (rect 5 0 28 11)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))
@@ -54,9 +54,9 @@ agreement for further details.
 )
 (pin
 	(input)
-	(rect 560 312 728 328)
+	(rect 632 240 800 256)
 	(text "INPUT" (rect 125 0 153 10)(font "Arial" (font_size 6)))
-	(text "sw" (rect 5 0 20 11)(font "Arial" ))
+	(text "R" (rect 5 0 14 11)(font "Arial" ))
 	(pt 168 8)
 	(drawing
 		(line (pt 84 12)(pt 109 12))

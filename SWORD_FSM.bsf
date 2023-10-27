@@ -27,22 +27,22 @@ agreement for further details.
 	(port
 		(pt 0 32)
 		(input)
-		(text "Reset" (rect 0 0 33 13)(font "Arial" (font_size 8)))
-		(text "Reset" (rect 21 27 54 40)(font "Arial" (font_size 8)))
+		(text "R" (rect 0 0 9 13)(font "Arial" (font_size 8)))
+		(text "R" (rect 21 27 30 40)(font "Arial" (font_size 8)))
 		(line (pt 0 32)(pt 16 32))
 	)
 	(port
 		(pt 0 48)
 		(input)
-		(text "Clk" (rect 0 0 20 13)(font "Arial" (font_size 8)))
-		(text "Clk" (rect 21 43 41 56)(font "Arial" (font_size 8)))
+		(text "CLK" (rect 0 0 24 13)(font "Arial" (font_size 8)))
+		(text "CLK" (rect 21 43 45 56)(font "Arial" (font_size 8)))
 		(line (pt 0 48)(pt 16 48))
 	)
 	(port
 		(pt 0 64)
 		(input)
-		(text "sw" (rect 0 0 16 13)(font "Arial" (font_size 8)))
-		(text "sw" (rect 21 59 37 72)(font "Arial" (font_size 8)))
+		(text "SW" (rect 0 0 22 13)(font "Arial" (font_size 8)))
+		(text "SW" (rect 21 59 43 72)(font "Arial" (font_size 8)))
 		(line (pt 0 64)(pt 16 64))
 	)
 	(port
